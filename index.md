@@ -34,3 +34,8 @@ A vector in R:
 ``` r
 vector = c(100, 200, 300)
 ```
+
+### Example of a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
