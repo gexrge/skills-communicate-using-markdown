@@ -26,4 +26,11 @@ This is <ins>underlined</ins> text
  
 I have added different types of Markdown syntax to this document.
 
+### Example of adding images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Example of adding code
+A vector in R:
+``` r
+vector = c(100, 200, 300)
+```
