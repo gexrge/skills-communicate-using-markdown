@@ -25,3 +25,5 @@ This is <ins>underlined</ins> text
   - sub-points
  
 I have added different types of Markdown syntax to this document.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
